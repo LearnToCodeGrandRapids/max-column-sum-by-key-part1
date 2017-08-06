@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ltcgr.MaxColumnSumByKey", "Ltcgr.MaxColumnSumByKey/Ltcgr.MaxColumnSumByKey.csproj", "{C285EF41-72ED-45CA-A2C6-BB99867C253C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ltcgr.MaxColumnSumByKey.Tests", "Ltcgr.MaxColumnSumByKey.Tests\Ltcgr.MaxColumnSumByKey.Tests.csproj", "{63A883E5-EA86-49EF-AC09-38C537382D43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C285EF41-72ED-45CA-A2C6-BB99867C253C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C285EF41-72ED-45CA-A2C6-BB99867C253C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C285EF41-72ED-45CA-A2C6-BB99867C253C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C285EF41-72ED-45CA-A2C6-BB99867C253C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A883E5-EA86-49EF-AC09-38C537382D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A883E5-EA86-49EF-AC09-38C537382D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A883E5-EA86-49EF-AC09-38C537382D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A883E5-EA86-49EF-AC09-38C537382D43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
